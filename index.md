@@ -5,16 +5,12 @@ I am Tianyuan (Noah) Zhou. Currently I am a third year PhD student in Statistics
 
 # Academic Experience
 
-## Published Projects
-
-#### Word Embedding Research    
-
-Co-Supervisor: Prof. João Sedoc from Johns Hopkins University.
-*	Theoretically showed that the performances on downstream Natural Language Processing tasks of the aligned word embeddings depend on the isotropy of the target embedding;
-*	Conducted a comprehensive analysis of the aligned word embeddings’ performance, including word2vec, GloVe, FastText, Latent Semantic Analysis, Eigenwords, Dependency word Embedding; 
-*	Published a paper [Getting in shape: word embedding subspaces](https://jrodu.github.io/files/IJCAI_2019_Word_Embedding_Subspaces.pdf) in International Joint Conference on Artificial Intelligence (IJCAI). 
-
 ## Working Projects
+
+#### Coastal Red Tides Forecast (In Progression)                                         
+Co-Supervisor: Prof. Scott Doney from Department of Environmental Sciences, University of Virginia.
+•	Working on purposing a new time series forecasting method to predict the coastal red tides, stochastic chaotic phenomena which is very harmful to different aspects of the society. 
+•	Analyzed existing methods for this task including empirical dynamic modeling, State-space modeling and Bayesian non-parametric time series forecasting methods. 
 
 #### Basis-expansion Random-Projection Ensemble (BRPE)                               
 Co-Supervisor: Prof. Jinzhu Jia from Peking University.
@@ -35,6 +31,14 @@ Collaborator: Xiaoyuan Ma (PhD student) from Department of Statistics at Univers
 *	Conducted a comprehensive real data analysis (an RNA-seq dataset and a user-rating movie recommender system dataset) to show the validity of REMF;
 *	Prepared two papers “Subspace-Regularized Multiple Canonical Correlation Analysis” (first author) and “Random Ensemble for Matrix Factorization” (first author), which will be submitted to Journal of the Royal Statistical Society: Series B (JRSSB).
 
+## Published Projects
+
+#### Word Embedding Research    
+
+Co-Supervisor: Prof. João Sedoc from Johns Hopkins University.
+*	Theoretically showed that the performances on downstream Natural Language Processing tasks of the aligned word embeddings depend on the isotropy of the target embedding;
+*	Conducted a comprehensive analysis of the aligned word embeddings’ performance, including word2vec, GloVe, FastText, Latent Semantic Analysis, Eigenwords, Dependency word Embedding; 
+*	Published a paper [Getting in shape: word embedding subspaces](https://jrodu.github.io/files/IJCAI_2019_Word_Embedding_Subspaces.pdf) in International Joint Conference on Artificial Intelligence (IJCAI). 
 
 ## Teaching
 
