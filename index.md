@@ -1,15 +1,17 @@
 
 
 
+I am Tianyuan (Noah) Zhou. Currently I am a third year PhD student in Statistics at Department of Statistics, University of Virginia. My research interest is mainly about statistical learning. 
 
-
-# Academic
-
-I am a third year PhD student in Statistics at Department of Statistics, University of Virginia. 
+# Academic Experience
 
 ## Published Projects
 
-These are my publications.
+#### Word Embedding Research                                                   
+Co-Supervisor: Prof. João Sedoc from Johns Hopkins University.
+•	Theoretically showed that the performances on downstream Natural Language Processing tasks of the aligned word embeddings depend on the isotropy of the target embedding;
+•	Conducted a comprehensive analysis of the aligned word embeddings’ performance, including word2vec, GloVe, FastText, Latent Semantic Analysis, Eigenwords, Dependency word Embedding; 
+•	Published a paper [Getting in shape: word embedding subspaces]{https://jrodu.github.io/files/IJCAI_2019_Word_Embedding_Subspaces.pdf} in International Joint Conference on Artificial Intelligence (IJCAI). 
 
 ## Working Projects
 
